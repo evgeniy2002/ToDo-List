@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/evgeniy2002/todo-List/static/css/main.af706d37.chunk.css",
-    "main.js": "/evgeniy2002/todo-List/static/js/main.1529c359.chunk.js",
-    "main.js.map": "/evgeniy2002/todo-List/static/js/main.1529c359.chunk.js.map",
-    "runtime-main.js": "/evgeniy2002/todo-List/static/js/runtime-main.5a044842.js",
-    "runtime-main.js.map": "/evgeniy2002/todo-List/static/js/runtime-main.5a044842.js.map",
-    "static/js/2.3ff22d4d.chunk.js": "/evgeniy2002/todo-List/static/js/2.3ff22d4d.chunk.js",
-    "static/js/2.3ff22d4d.chunk.js.map": "/evgeniy2002/todo-List/static/js/2.3ff22d4d.chunk.js.map",
-    "static/js/3.8080f8cb.chunk.js": "/evgeniy2002/todo-List/static/js/3.8080f8cb.chunk.js",
-    "static/js/3.8080f8cb.chunk.js.map": "/evgeniy2002/todo-List/static/js/3.8080f8cb.chunk.js.map",
-    "index.html": "/evgeniy2002/todo-List/index.html",
-    "static/css/main.af706d37.chunk.css.map": "/evgeniy2002/todo-List/static/css/main.af706d37.chunk.css.map",
-    "static/js/2.3ff22d4d.chunk.js.LICENSE.txt": "/evgeniy2002/todo-List/static/js/2.3ff22d4d.chunk.js.LICENSE.txt",
-    "static/media/trash.bb8494aa.svg": "/evgeniy2002/todo-List/static/media/trash.bb8494aa.svg"
+    "main.css": "/todo-list/static/css/main.af706d37.chunk.css",
+    "main.js": "/todo-list/static/js/main.1529c359.chunk.js",
+    "main.js.map": "/todo-list/static/js/main.1529c359.chunk.js.map",
+    "runtime-main.js": "/todo-list/static/js/runtime-main.4ff6729e.js",
+    "runtime-main.js.map": "/todo-list/static/js/runtime-main.4ff6729e.js.map",
+    "static/js/2.3ff22d4d.chunk.js": "/todo-list/static/js/2.3ff22d4d.chunk.js",
+    "static/js/2.3ff22d4d.chunk.js.map": "/todo-list/static/js/2.3ff22d4d.chunk.js.map",
+    "static/js/3.8080f8cb.chunk.js": "/todo-list/static/js/3.8080f8cb.chunk.js",
+    "static/js/3.8080f8cb.chunk.js.map": "/todo-list/static/js/3.8080f8cb.chunk.js.map",
+    "index.html": "/todo-list/index.html",
+    "static/css/main.af706d37.chunk.css.map": "/todo-list/static/css/main.af706d37.chunk.css.map",
+    "static/js/2.3ff22d4d.chunk.js.LICENSE.txt": "/todo-list/static/js/2.3ff22d4d.chunk.js.LICENSE.txt",
+    "static/media/trash.bb8494aa.svg": "/todo-list/static/media/trash.bb8494aa.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5a044842.js",
+    "static/js/runtime-main.4ff6729e.js",
     "static/js/2.3ff22d4d.chunk.js",
     "static/css/main.af706d37.chunk.css",
     "static/js/main.1529c359.chunk.js"
